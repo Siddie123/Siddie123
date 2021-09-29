@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddie123
-- 👀 I’m interested in Computer Science & Programming
-- 🌱 I’m currently pursuing B.Tech Int Course at MPSTME
+- 👀 I love Coding !
+- 🌱 I’m currently pursuing B.Tech Int Course at MPSTME and I'm in my 3rd Year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
