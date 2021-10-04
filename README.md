@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Siddie123
+- 👋 Hi, I’m Siddharth Vashisth (@Siddie123)
 - 👀 I love Coding !
-- 🌱 I’m currently pursuing B.Tech at NMIMS
+- 🌱 I’m currently pursuing B.Tech at Narsee Monjee Institute of Management Studies (NMIMS) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
