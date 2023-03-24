@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Siddharth Vashisth (@Siddie123)
-- 👀 I love Coding !
-- 🌱 I’m currently pursuing B.Tech at Narsee Monjee Institute of Management Studies (NMIMS) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Siddharth Vashisth 
+- 🧑‍💻 Love to Code
+- 🌱 I’m currently pursuing B.Tech at NMIMS 
 
 <!---
 Siddie123/Siddie123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
